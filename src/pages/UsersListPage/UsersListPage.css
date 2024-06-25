@@ -1,7 +1,0 @@
-.usersList {
-    .row {
-      &:hover {
-        cursor: pointer;
-      }  
-    }
-}

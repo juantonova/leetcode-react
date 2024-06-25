@@ -1,7 +1,0 @@
-.taskList {
-    .row {
-      &:hover {
-        cursor: pointer;
-      }  
-    }
-}
